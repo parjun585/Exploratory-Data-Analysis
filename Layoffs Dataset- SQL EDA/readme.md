@@ -13,3 +13,4 @@ The New York Times
 The data availability is from when COVID-19 was declared as a pandemic i.e. 11 March 2020 to present (21 Apr 2025).
 Some data such as the sources, list of employees laid off and date of addition has been omitted here and the complete data can be found on Layoffs.fyi.
 Credits: Roger Lee
+Link : https://www.kaggle.com/datasets/swaptr/layoffs-2022
